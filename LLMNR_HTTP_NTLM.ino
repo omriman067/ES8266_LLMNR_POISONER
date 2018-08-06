@@ -4,8 +4,8 @@
 #include "FS.h"
 #include <ESP8266LLMNR.h> // this is an edited version of the official arduino ESP8266LLMNR library
 
-const char* ssid = "your-ssid";
-const char* password = "your-password";
+const char* ssid = "Testwifi";
+const char* password = "Aa123456";
 
 WiFiServer server(80);
 WiFiClient client;
